@@ -1,2 +1,2 @@
 # courseEra
-This is licenece
+This is code of conduct
